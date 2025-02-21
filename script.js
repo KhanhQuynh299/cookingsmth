@@ -5,6 +5,6 @@ function login()
   if (u=="Dacat" && p="Dacat2909@%")
   {
     window.open("home.html")
-    document.getElementByteId(compiler).style.display="block"
+    document.getElementById(compiler).style.display="block"
   }
     
