@@ -3,6 +3,6 @@ html {
   width: 100%;
 }
 .caigido {color:grey; background-color: tomato; text-align: center; padding: 20px;}
-.chaclavay {background-color:black;}
+.chaclavay {background-color:black; float:center;}
 .chaclavay a{color:white;}
 .chaclavay a:hover{padding: 4; color:black; background-color:black;}
