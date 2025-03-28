@@ -4,5 +4,5 @@ html {
 }
 .caigido {color:grey; background-color: tomato; text-align: center; padding: 20px;}
 .chaclavay {background-color:black;}
-.chaclavay a{}
+.chaclavay a{color:white;}
 .chaclavay a:hover{padding: 4; color:black; background-color:black;}
